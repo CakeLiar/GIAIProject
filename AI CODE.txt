@@ -1,3 +1,0 @@
-PREVIOUS VERSIONS: https://www.kaggle.com/aligsaoud/emotion-detection/
-
-FINAL VERSION: https://www.kaggle.com/aligsaoud/giai-ada
